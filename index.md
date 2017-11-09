@@ -1,7 +1,9 @@
-
-<header>
-  Welcome to Convulsion 
-</header>
+<html>
+    <div id="Tabs">
+      <div> News </div>
+      <div> Forums </div>
+      <div> Recruitment </div>
+    </div>
 
 ## Convulsion will be returning upon the launch of Classic-WoW
 
@@ -21,3 +23,4 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 [Link](url) and ![Image](src)
 ```
+</html>
