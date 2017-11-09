@@ -1,9 +1,12 @@
+<!DOCTYPE html>
 <html>
-    <div id="Tabs">
-      <div> News </div>
-      <div> Forums </div>
-      <div> Recruitment </div>
-    </div>
+    <head>
+        <div id="Tabs">
+            <div> News </div>
+            <div> Forums </div>
+            <div> Recruitment </div>
+        </div>
+    </head>
 
 ## Convulsion will be returning upon the launch of Classic-WoW
 
