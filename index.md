@@ -2,9 +2,9 @@
 <html>
     <head>
         <div id="Tabs" align="center">
-            <div> News </div>
-            <div> Forums </div>
-            <div> Recruitment </div>
+            <p> News </p>
+            <p> Forums </p>
+            <p> Recruitment </p>
         </div>
     </head>
 
