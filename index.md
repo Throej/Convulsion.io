@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <div id="Tabs">
+        <div id="Tabs" align="center">
             <div> News </div>
             <div> Forums </div>
             <div> Recruitment </div>
